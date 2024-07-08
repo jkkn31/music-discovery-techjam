@@ -56,6 +56,8 @@ The dataset used for this project categorizes song attributes, metadata, and use
 - **Semantic Relationships**: Enriches understanding of music attributes and interactions.
 - **User-Centric Recommendations**: Tailors recommendations based on user preferences.
 
+
+
 ## Conclusion
 
 This proposal outlines a comprehensive strategy to enhance music discovery and engagement on TikTok by leveraging advanced recommendation algorithms and knowledge graphs. By prioritizing new artists, promoting diverse content, and fostering community engagement, the project aims to transform the way users interact with music on the platform.
